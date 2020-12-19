@@ -22,7 +22,7 @@ New Total Student Count    38,709
 
 *How is the district summary affected?
 
-[resources/District Summary.png](resources/District Summary.png)  
+[resources/District Summary.png](resources/District Summary.png) 
 
 *How is the school summary affected?
 
