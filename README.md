@@ -22,7 +22,7 @@ New Total Student Count    38,709
 
 *How is the district summary affected?
 
-[resources/District Summary.png](resources/District Summary.png) 
+[Resources/district_summary.png](Resources/district_summary.png) 
 
 *How is the school summary affected?
 
@@ -34,21 +34,21 @@ New Total Student Count    38,709
 
   *Math and reading scores by grade
   
-  [Resources/Math Scores by Grade.png](Resources/Math Scores by Grade.png)
+  [Resources/math_scores_by_grade.png](Resources/math_scores_by_grade.png)
   
-  [Resources/Reading Scores by Grade.png](Resources/Reading Scores by Grade.png)
+  [Resources/reading_scores_by_grade.png](RResources/reading_scores_by_grade.png)
   
   *Scores by school spending
   
-  [Resources/Scores by School Spending.png](Resources/Scores by School Spending.png)
+  [Resources/scores_by_school_spending.png](Resources/scores_by_school_spending.png)
   
   *Scores by school size
   
-  [Resources/Scores by School Size.png](Resources/Scores by School Size.png)
+  [Resources/scores_by_school_size.png](Resources/scores_by_school_size.png)
   
   *Scores by school type
   
-  [Resources/Scores by School Type.png](Resources/Scores by School Type.png)
+  [Resources/scores_by_school_type.png](Resources/scores_by_school_type.png)
   
 ## Summary 
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
