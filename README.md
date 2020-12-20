@@ -29,20 +29,32 @@ The district summaries below shows a difference in score and percentages:
  * "% Overall Passing" .1 difference 
  
 Initial District Summary 
-![Resources/initial_school_district_summary.png](Resources/initial_school_district_summary.png) 
+![Resources/initial_school_summary.png](Resources/initial_school_summary.png) 
 
 New District Summary
 ![Resources/district_summary.png](Resources/district_summary.png) 
 
 ### School Summary 
-The school summaries 
+Based on the tables below, the school summary was not affected.
+
 Initial School Summary 
-![Resources/School_Summary.png](Resources/School_Summary.png) 
+![Resources/initial_school_summary.png](Resources/initial_school_summary.png) 
 
 New School Summary
-![Resources/initial_school_summary.png](Resources/initial_school_summary.png)
+![Resources/School_Summary.png](Resources/School_Summary.png)
 
 *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### Thomas High School Performance Relative to Other Schools 
+
+![Resources/initial_top_schools.png](Resources/initial_top_schools.png)
+
+![Resources/top_schools.png](Resources/top_schools.png)
+
+
+![Resources/initial_bottom_schools.png](Resources/initial_bottom_schools.png)
+
+![Resources/bottom_schools.png](Resources/bottom_schools.png)
+
 
 *How does replacing the ninth-grade scores affect the following:
 
