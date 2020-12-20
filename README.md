@@ -62,7 +62,7 @@ Based on the tables below, the school summary was not affected.
 
 *Initial Bottom Performing Schools
 
-![Resources/initial_bottom_schools.png](Resources/initial_bottom_schools.png)
+![Resources/initial_bottom_schools.png](Resources/initial_bottom_schools.png) 
 
 *New Bottom Performing Schools
 
