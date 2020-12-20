@@ -20,7 +20,7 @@ Before the data clean up, the total student count was 39,170; after the data cle
 
 The district summary shows 
 
-![Resources/initial_school_district_summary.png](Resources/initial_school_district_summary.png)
+![Resources/initial_school_district_summary.png](Resources/initial_school_district_summary.png) 
 
 ![Resources/district_summary.png](Resources/district_summary.png) 
 
