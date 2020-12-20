@@ -38,7 +38,7 @@ New Total Student Count    38,709
   
   ![Resources/math_scores_by_grade.png](Resources/math_scores_by_grade.png)
   
-  ![Resources/reading_scores_by_grade.png](RResources/reading_scores_by_grade.png)
+  ![Resources/reading_scores_by_grade.png](Resources/reading_scores_by_grade.png)
   
   *Scores by school spending
   
