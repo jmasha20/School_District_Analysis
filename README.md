@@ -26,7 +26,7 @@ New Total Student Count    38,709
 
 *How is the school summary affected?
 
-[resources/School Summary.png](resources/School Summary.png) 
+[Resources/School_Summary.png](Resources/School_Summary.png) 
 
 *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
