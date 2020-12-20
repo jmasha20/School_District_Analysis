@@ -28,7 +28,7 @@ New Total Student Count    38,709
 
 *How is the school summary affected?
 
-[Resources/School_Summary.png](Resources/School_Summary.png) 
+![Resources/School_Summary.png](Resources/School_Summary.png) 
 
 *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -36,21 +36,21 @@ New Total Student Count    38,709
 
   *Math and reading scores by grade
   
-  [Resources/math_scores_by_grade.png](Resources/math_scores_by_grade.png)
+  ![Resources/math_scores_by_grade.png](Resources/math_scores_by_grade.png)
   
-  [Resources/reading_scores_by_grade.png](RResources/reading_scores_by_grade.png)
+  ![Resources/reading_scores_by_grade.png](RResources/reading_scores_by_grade.png)
   
   *Scores by school spending
   
-  [Resources/scores_by_school_spending.png](Resources/scores_by_school_spending.png)
+  ![Resources/scores_by_school_spending.png](Resources/scores_by_school_spending.png)
   
   *Scores by school size
   
-  [Resources/scores_by_school_size.png](Resources/scores_by_school_size.png)
+  ![Resources/scores_by_school_size.png](Resources/scores_by_school_size.png)
   
   *Scores by school type
   
-  [Resources/scores_by_school_type.png](Resources/scores_by_school_type.png)
+  ![Resources/scores_by_school_type.png](Resources/scores_by_school_type.png)
   
 ## Summary 
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
