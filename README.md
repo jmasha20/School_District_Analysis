@@ -9,6 +9,9 @@ A school board detects evidence of academic dishonesty; specifically, reading an
  * The average math score for each grade level from each school.
  * The average reading score for each grade level from each school.
  * The scores by school spending per student, by school size, and by school type.
+ 
+ (For the purposes of this analysis "Initial" means before data clean up and "New" means after data clean up. Data clean up is: replaced ninth-grade reading and math scores with NaNs while keeping the data intact.)
+
 
 ## Resources
 -Data Source: Resources/schools_complete.csv, Resources/students_complete.csv
@@ -16,17 +19,28 @@ A school board detects evidence of academic dishonesty; specifically, reading an
 -Software: Jupyter Notebook
 
 ## Results 
-Before the data clean up, the total student count was 39,170; after the data clean up (replaced ninth-grade reading and math scores with NaNs) the new total student count is 38,709.
+Before the data clean up, the total student count was 39,170; after the data clean up (replaced ninth-grade reading and math scores with NaNs) the new total student count is 38,709. 
 
-The district summary shows 
-
+### District Summary 
+The district summaries below shows a difference in score and percentages:
+ * "Average Math Score" .1 difference 
+ * "% Passing Math" .2 difference 
+ * "% Passing Reading" .3 difference 
+ * "% Overall Passing" .1 difference 
+ 
+Initial District Summary 
 ![Resources/initial_school_district_summary.png](Resources/initial_school_district_summary.png) 
 
+New District Summary
 ![Resources/district_summary.png](Resources/district_summary.png) 
 
-*How is the school summary affected?
-
+### School Summary 
+The school summaries 
+Initial School Summary 
 ![Resources/School_Summary.png](Resources/School_Summary.png) 
+
+New School Summary
+![Resources/initial_school_summary.png](Resources/initial_school_summary.png)
 
 *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
