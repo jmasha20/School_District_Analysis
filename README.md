@@ -17,12 +17,14 @@ A school board detects evidence of academic dishonesty; specifically, reading an
 -Software: Jupyter Notebook
 
 ## Results 
+(Brefore data clean up) (After data clean up) The initial student count reflecting math and reading scores was 39,170 and after replacing 
 Initial Student Count    39,170
+
 New Total Student Count    38,709
 
 *How is the district summary affected?
 
-[Resources/district_summary.png](Resources/district_summary.png) 
+![Resources/district_summary.png](Resources/district_summary.png) 
 
 *How is the school summary affected?
 
