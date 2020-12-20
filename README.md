@@ -30,7 +30,7 @@ The district summaries below shows a difference in score and percentages:
  
 *Initial District Summary 
 
-![Resources/initial_school_summary.png](Resources/initial_school_summary.png) 
+![Resources/initial_school_district_summary.png](Resources/initial_school_district_summary.png) 
 
 *New District Summary
 
