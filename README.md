@@ -3,10 +3,9 @@
 ## Overview of School District Analysis
 A school board detects evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders which appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, and to uphold state-testing standards, this analysis will:
 
- * Replace ninth-grade reading and math scores replaced with NaNs while keeping the data intact.
+ * Replace ninth-grade reading and math scores with NaNs while keeping the data intact.
  * Summarize district metrics
  * Summarize school metrics
- * The top 5 and bottom 5 performing schools, based on the overall passing rate.
  * The average math score for each grade level from each school.
  * The average reading score for each grade level from each school.
  * The scores by school spending per student, by school size, and by school type.
@@ -17,12 +16,11 @@ A school board detects evidence of academic dishonesty; specifically, reading an
 -Software: Jupyter Notebook
 
 ## Results 
-(Brefore data clean up) (After data clean up) The initial student count reflecting math and reading scores was 39,170 and after replacing 
-Initial Student Count    39,170
+Before the data clean up, the total student count was 39,170; after the data clean up (replaced ninth-grade reading and math scores with NaNs) the new total student count is 38,709.
 
-New Total Student Count    38,709
+The district summary shows 
 
-*How is the district summary affected?
+![Resources/initial_school_district_summary.png](Resources/initial_school_district_summary.png)
 
 ![Resources/district_summary.png](Resources/district_summary.png) 
 
