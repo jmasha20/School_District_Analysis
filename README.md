@@ -51,7 +51,7 @@ Based on the tables below, the school summary was not affected.
 
 
 ### Thomas High School Performance Relative to Other Schools 
-In relation to other schools, replacing the ninth graders' math and reading scores at Thomas High School affected the school's math percentage, however, Thomas High School  is still the second top five high performing schools. 
+In relation to other schools, replacing the ninth graders' math and reading scores at Thomas High School affected the school's math percentage, however, Thomas High School remains second in the "top five" high performing schools. 
 
 *  Math score = .1 difference (I- 83.4 to N- 83.3)
 
