@@ -25,11 +25,12 @@ _(For the purposes of this analysis "Initial" (I) means before data clean up and
 Before the data clean up, the total student count was 39,170; after the data clean up (replaced ninth-grade reading and math scores with NaNs) the new total student count is 38,709. 
 
 ### District Summary 
-The district summaries below show a difference in math score and math and reading percentage:
+The district summaries below show a difference in math score and math and reading percentage when comparing the initial scores and percentages to the new score and percentages
+:
  * "Average Math Score" = .1 difference (I- 79.0 to N- 78.9)
- * "% Passing Math" = .2 difference (I- 75% to N- 74.8%)
- * "% Passing Reading" = .3 difference (I- 86% to N- 85.7%)
- * "% Overall Passing" = .1 difference (I- 65% to N- 64.9%)
+ * "% Passing Math" = I- 75% to N- 74.8%
+ * "% Passing Reading" = I- 86% to N- 85.7%
+ * "% Overall Passing" = I- 65% to N- 64.9%)
  
 **Initial District Summary 
 
@@ -41,7 +42,14 @@ The district summaries below show a difference in math score and math and readin
 
 
 ### School Summary 
-Based on the tables below, the school summary was not affected.
+Based on the tables below, the new school summary was affected in average math and reading scores, percentage passing math, percentage passing reading and percentage overall passing:
+
+ * "Average Math Score" = .1 difference (I- 83.4 to N- 83.3)
+ * "Average Reading Score" = .1 difference (I- 83.8 to- 83.9) 
+ * "% Passing Math" = I- 5.704720 % to N- 1094.000000 %
+ * "% Passing Reading" = I- 0.000595 % to N- 97.018739	%
+ * "% Overall Passing" = I- 90.948012 % to N- 90.630324 %
+
 
 **Initial School Summary 
 
