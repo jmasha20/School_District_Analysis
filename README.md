@@ -72,6 +72,7 @@ In relation to other schools, replacing the ninth graders' math and reading scor
 
 ![Resources/top_schools.png](Resources/top_schools.png)
 
+[See here for lowest perfomring schools.](Resources/bottom_schools.png)
  
 **Math and Reading Scores by Grade
 
@@ -140,7 +141,25 @@ By replacing the ninth-grade math and reading scores, the average math and readi
  ![Resources/new_score_by_type.png](Resources/new_score_by_type.png)
   
 ## Summary 
-The reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the updated district analysis referenced as "new" or (N), shows four major changes in score and percentages: (1) the district and per school summaries, (2) top performing schools, (3) math score by grade, and (4) math and reading scores by school size. The math score by grade and math and reading scores by school size shows a slight change in numbers. The greatest affect is shown in "School Summary". The percentages of students passing math or reading is a noticeable change. Given the large dataset but limited information to determine academic dishonesty, it is suggested these findings be further explored. 
+This analysis concludes, after the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the updated district analysis referenced as "new" or (N), shows four major changes in score and percentages: (1) the district and per school summaries, (2) top performing schools, (3) math score by grade, and (4) math and reading scores by school size. The math score by grade and math and reading scores by school size shows a slight change in numbers. 
+
+The top five performing schools are:
+
+1. Cabrera High School	
+2. Thomas High School
+3. Griffin High School
+4. Wilson High School 
+5. Pena High School
+
+The lowest five performing schools are:
+
+1. Rodriguez High School
+2. Figueroa High School
+3. Huang High School
+4. Hernandez High School
+5. Johnson High School
+
+The greatest affect is shown in "School Summary". The percentages of students passing math or reading is a noticeable change. Given the large dataset but limited information, it is suggested these findings be further explored. 
 
 
 
