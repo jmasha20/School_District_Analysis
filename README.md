@@ -15,7 +15,9 @@ _(For the purposes of this analysis "Initial" (I) means before data clean up and
 
 
 ## Resources
--Data Source: Resources/schools_complete.csv, Resources/students_complete.csv
+-Data Source: 
+* Resources/schools_complete.csv  
+* Resources/students_complete.csv
 
 -Software: Jupyter Notebook
 
@@ -131,7 +133,7 @@ By replacing the ninth-grade math and reading scores, the average math and readi
  ![Resources/new_score_by_type.png](Resources/new_score_by_type.png)
   
 ## Summary 
-The updated district analysis, referenced as "new" or (N), shows four changes after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. The changes in scores and/or percentages are: the district summary, top performing school, math score by grade, and math and reading scores by school size. 
+After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the updated district analysis referenced as "new" or (N), shows four changes the school board may want to take a closer look at: the district summary, top performing schools, math score by grade, and math and reading scores by school size. 
 
 
 
