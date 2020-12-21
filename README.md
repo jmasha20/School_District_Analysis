@@ -6,11 +6,12 @@ A school board detects evidence of academic dishonesty; specifically, reading an
  * Replace ninth-grade reading and math scores with NaNs while keeping the data intact.
  * Summarize district metrics
  * Summarize school metrics
+ * Top five high and low performing high schools 
  * The average math score for each grade level from each school.
  * The average reading score for each grade level from each school.
  * The scores by school spending per student, by school size, and by school type.
  
- (For the purposes of this analysis "Initial" means before data clean up and "New" means after data clean up. Data clean up is: replaced ninth-grade reading and math scores with NaNs while keeping the data intact.)
+_(For the purposes of this analysis "Initial" (I) means before data clean up and "New" (N) means after data clean up. Data clean up is: replaced ninth-grade reading and math scores with NaNs while keeping the data intact. The initial and new data was analyzed between two files to avoid errors.)_
 
 
 ## Resources
@@ -23,16 +24,16 @@ Before the data clean up, the total student count was 39,170; after the data cle
 
 ### District Summary 
 The district summaries below shows a difference in score and percentages:
- * "Average Math Score" .1 difference 
- * "% Passing Math" .2 difference 
- * "% Passing Reading" .3 difference 
- * "% Overall Passing" .1 difference 
+ * "Average Math Score" = .1 difference (I- 79.0 to N- 78.9)
+ * "% Passing Math" = .2 difference (I- 75% to N- 74.8%)
+ * "% Passing Reading" = .3 difference (I- 86% to N- 85.7%)
+ * "% Overall Passing" = .1 difference (I- 65% to N- 64.9%)
  
-*Initial District Summary 
+**Initial District Summary 
 
 ![Resources/initial_school_district_summary.png](Resources/initial_school_district_summary.png) 
 
-*New District Summary
+**New District Summary
 
 ![Resources/district_summary.png](Resources/district_summary.png) 
 
@@ -40,50 +41,91 @@ The district summaries below shows a difference in score and percentages:
 ### School Summary 
 Based on the tables below, the school summary was not affected.
 
-*Initial School Summary 
+**Initial School Summary 
 
 ![Resources/initial_school_summary.png](Resources/initial_school_summary.png) 
 
-*New School Summary
+**New School Summary
 
 ![Resources/School_Summary.png](Resources/School_Summary.png)
 
 
 ### Thomas High School Performance Relative to Other Schools 
-In relation to other schools, replacing the ninth graders' math and reading scores at Thomas High School affected the school's reading and math score and percentages. 
+In relation to other schools, replacing the ninth graders' math and reading scores at Thomas High School affected the school's math percentage, however, Thomas High School  is still the second top five high performing schools. 
 
-*Initial Top Performing Schools
+*  Math score = .1 difference (I- 83.4 to N- 83.3)
+
+**Initial Top Performing Schools
 
 ![Resources/initial_top_schools.png](Resources/initial_top_schools.png)
 
-*New Top Performing Schools
+**New Top Performing Schools
 
 ![Resources/top_schools.png](Resources/top_schools.png)
 
+ 
+**Math Scores by Grade
 
-By replacing the ninth-grade math and reading scores, tenth-grade math and reading scores; eleventh-grade math and reading scores and the twelfth-grade math and reading scores at Thomas High School are affected as shown in the tables below: 
+By replacing the ninth-grade math and reading scores, tenth-grade, eleventh-grade and twelfth-grade reading scores by grade at Thomas High School are affected:
 
-*Math and reading scores by grade
+ *  Reading score for tenth graders' = .3 difference (I- 84.3 to N- 84.0)
+ *  Reading score for eleventh graders' =  .1 difference (I- 83.6 to N- 83.5)
+ *  Math and reading scores for twelfth graders' shows no affect.
 
-  ![Resources/initial_math_score_by_grade.png](Resources/initial_math_score_by_grade.png)
+(Initial)
+![Resources/initial_math_score_by_grade.png](Resources/initial_math_score_by_grade.png)
+ 
+(New)
+![Resources/math_score_by_grade.png](Resources/math_score_by_grade.png)
   
-  ![Resources/math_scores_by_grade.png](Resources/math_scores_by_grade.png)
+**Reading Scores by Grade
+
+(Initial)
+![Resources/initial_reading_score_by_grade.png](Resources/initial_reading_score_by_grade.png)
+
+(New)  
+![Resources/reading_score_by_grade.png](Resources/reading_score_by_grade.png)
   
-  ![Resources/initial_reading_score_by_grade.png](Resources/initial_reading_score_by_grade.png)
+ **Scores by School Spending
+ (Thomas High School per student spending is $634)
+ 
+By replacing the ninth-grade math and reading scores, tenth-grade, eleventh-grade and twelfth-grade math and reading scores by school spending at Thomas High School shows no affect.
+
+(Initial)  
+![Resources/initial_score_by_spending.png](Resources/initial_score_by_spending.png)
+
+(New)  
+![Resources/new_score_by_spending.png](Resources/new_score_by_spending.png)
   
-  ![Resources/reading_scores_by_grade.png](Resources/reading_scores_by_grade.png)
+ **Scores by School Size
+ Thomas High School - Medium (student count 1632)
+ 
+By replacing the ninth-grade math and reading scores, the average math and reading scores by school size among tenth, eleventh and twelfth graders' at Thomas High School is affected: 
+
+*  Math score = .1 difference (I- 83.3 to N- 83.4)
+*  Reading score = .1 difference (I- 83.9 to N- 83.8)  
+ 
+ (Initial) 
+ ![Resources/initial_score_by_size.png](Resources/initial_score_by_size.png)
+ 
+ (New) 
+ ![Resources/new_score_by_size.png](Resources/new_score_by_size.png)
   
-  *Scores by school spending
-  
-  ![Resources/scores_by_school_spending.png](Resources/scores_by_school_spending.png)
-  
-  *Scores by school size
-  
-  ![Resources/scores_by_school_size.png](Resources/scores_by_school_size.png)
-  
-  *Scores by school type
-  
-  ![Resources/scores_by_school_type.png](Resources/scores_by_school_type.png)
+ **Scores by School Type
+ Thomas High School school type - Charter 
+ 
+By replacing the ninth-grade math and reading scores, the average math and reading scores by school type among tenth, eleventh, and twelfth graders' at Thomas High School show no affect. 
+
+ (Initial)   
+ ![Resources/initial_score_by_type.png](Resources/initial_score_by_type.png)
+ 
+ (New) 
+ ![Resources/new_score_by_type.png](Resources/new_score_by_type.png)
   
 ## Summary 
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The updated district analysis, referenced as "new" or (N), shows four changes after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. The changes in scores and/or percentages are: the district summary, top performing school, math score by grade, and math and reading scores by school size. 
+
+
+
+
+
