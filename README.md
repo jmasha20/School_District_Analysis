@@ -64,7 +64,7 @@ In relation to other schools, replacing the ninth graders' math and reading scor
 ![Resources/top_schools.png](Resources/top_schools.png)
 
  
-**Math Scores by Grade
+**Math and Reading Scores by Grade
 
 By replacing the ninth-grade math and reading scores, tenth-grade, eleventh-grade and twelfth-grade reading scores by grade at Thomas High School are affected:
 
@@ -72,18 +72,20 @@ By replacing the ninth-grade math and reading scores, tenth-grade, eleventh-grad
  *  Reading score for eleventh graders' =  .1 difference (I- 83.6 to N- 83.5)
  *  Math and reading scores for twelfth graders' shows no affect.
 
-(Initial)
+**Initial Math Score by Grade
+
 ![Resources/initial_math_score_by_grade.png](Resources/initial_math_score_by_grade.png)
  
-(New)
+**New Math Score by Grade
+
 ![Resources/math_score_by_grade.png](Resources/math_score_by_grade.png)
   
-**Reading Scores by Grade
+**Initial Reading Score by Grade
 
-(Initial)
 ![Resources/initial_reading_score_by_grade.png](Resources/initial_reading_score_by_grade.png)
 
-(New)  
+**New Reading Score by Grade
+
 ![Resources/reading_score_by_grade.png](Resources/reading_score_by_grade.png)
   
  **Scores by School Spending
@@ -91,10 +93,12 @@ By replacing the ninth-grade math and reading scores, tenth-grade, eleventh-grad
  
 By replacing the ninth-grade math and reading scores, tenth-grade, eleventh-grade and twelfth-grade math and reading scores by school spending at Thomas High School shows no affect.
 
-(Initial)  
+**Initial Score by Spending
+
 ![Resources/initial_score_by_spending.png](Resources/initial_score_by_spending.png)
 
-(New)  
+**New Score by Spending 
+
 ![Resources/new_score_by_spending.png](Resources/new_score_by_spending.png)
   
  **Scores by School Size
@@ -105,10 +109,12 @@ By replacing the ninth-grade math and reading scores, the average math and readi
 *  Math score = .1 difference (I- 83.3 to N- 83.4)
 *  Reading score = .1 difference (I- 83.9 to N- 83.8)  
  
- (Initial) 
+**Initial Score by School Size
+
  ![Resources/initial_score_by_size.png](Resources/initial_score_by_size.png)
  
- (New) 
+**New Score by School Size
+
  ![Resources/new_score_by_size.png](Resources/new_score_by_size.png)
   
  **Scores by School Type
@@ -116,10 +122,12 @@ By replacing the ninth-grade math and reading scores, the average math and readi
  
 By replacing the ninth-grade math and reading scores, the average math and reading scores by school type among tenth, eleventh, and twelfth graders' at Thomas High School show no affect. 
 
- (Initial)   
+**Initial Score by School Type
+
  ![Resources/initial_score_by_type.png](Resources/initial_score_by_type.png)
  
- (New) 
+ **New Score by School Type
+ 
  ![Resources/new_score_by_type.png](Resources/new_score_by_type.png)
   
 ## Summary 
