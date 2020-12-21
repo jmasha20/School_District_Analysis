@@ -23,7 +23,7 @@ _(For the purposes of this analysis "Initial" (I) means before data clean up and
 Before the data clean up, the total student count was 39,170; after the data clean up (replaced ninth-grade reading and math scores with NaNs) the new total student count is 38,709. 
 
 ### District Summary 
-The district summaries below shows a difference in score and percentages:
+The district summaries below show a difference in math score and math and reading percentage:
  * "Average Math Score" = .1 difference (I- 79.0 to N- 78.9)
  * "% Passing Math" = .2 difference (I- 75% to N- 74.8%)
  * "% Passing Reading" = .3 difference (I- 86% to N- 85.7%)
