@@ -42,12 +42,11 @@ The district summaries below show a difference in math score and math and readin
 
 
 ### School Summary 
-Based on the tables below, the new school summary was affected in average math and reading scores, percentage passing math, percentage passing reading and percentage overall passing:
+Based on the tables below, the new school summary was affected in average math score, percentage passing math, percentage passing reading and percentage overall passing:
 
- * "Average Math Score" = .1 difference (I- 83.4 to N- 83.3)
- * "Average Reading Score" = .1 difference (I- 83.8 to- 83.9) 
- * "% Passing Math" = I- 5.704720 % to N- 1094.000000 %
- * "% Passing Reading" = I- 0.000595 % to N- 97.018739	%
+ * "Average Math Score" = .1 difference (I- 83.4 to N- 83.3) 
+ * "% Passing Math" = I- 5.704720 % to N- 	66.911315%
+ * "% Passing Reading" = I- 0.000595 % to N- 69.663609	%
  * "% Overall Passing" = I- 90.948012 % to N- 90.630324 %
 
 
@@ -141,7 +140,7 @@ By replacing the ninth-grade math and reading scores, the average math and readi
  ![Resources/new_score_by_type.png](Resources/new_score_by_type.png)
   
 ## Summary 
-After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the updated district analysis referenced as "new" or (N), shows four changes the school board may want to take a closer look at: the district summary, top performing schools, math score by grade, and math and reading scores by school size. 
+After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the updated district analysis referenced as "new" or (N), shows four major changes the school board may want to take a closer look at: the district and per school summaries, top performing schools, math score by grade, and math and reading scores by school size. 
 
 
 
