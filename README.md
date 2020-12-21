@@ -67,7 +67,7 @@ In relation to other schools, replacing the ninth graders' math and reading scor
 
 **Initial Top Performing Schools
 
-![Resources/initial_top_schools.png](Resources/initial_top_schools.png)
+![Resources/initial_top_schools.png](Resources/initial_top_schools.png) 
 
 **New Top Performing Schools
 
