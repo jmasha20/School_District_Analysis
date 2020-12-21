@@ -140,7 +140,7 @@ By replacing the ninth-grade math and reading scores, the average math and readi
  ![Resources/new_score_by_type.png](Resources/new_score_by_type.png)
   
 ## Summary 
-After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the updated district analysis referenced as "new" or (N), shows four major changes the school board may want to take a closer look at: the district and per school summaries, top performing schools, math score by grade, and math and reading scores by school size. 
+The reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the updated district analysis referenced as "new" or (N), shows four major changes in score and percentages: (1) the district and per school summaries, (2) top performing schools, (3) math score by grade, and (4) math and reading scores by school size. The math score by grade and math and reading scores by school size shows a slight change in numbers. The greatest affect is shown in "School Summary". The percentages of students passing math or reading is a noticeable change. Given the large dataset but limited information to determine academic dishonesty, it is suggested these findings be further explored. 
 
 
 
