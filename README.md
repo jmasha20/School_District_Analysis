@@ -11,7 +11,7 @@ A school board detects evidence of academic dishonesty; specifically, reading an
  * The average reading score for each grade level from each school.
  * The scores by school spending per student, by school size, and by school type.
  
-_(For the purposes of this analysis "Initial" (I) means before data clean up and "New" (N) means after data clean up. Data clean up is: replaced ninth-grade reading and math scores with NaNs while keeping the data intact. The initial and new data was analyzed between two files to avoid errors.)_
+_(For the purposes of this analysis "Initial" (I) means before data clean up and "New" (N) means after data clean up. Data clean up = replaced ninth-grade reading and math scores with NaNs while keeping the data intact. The initial and new data was analyzed between two files to avoid errors.)_
 
 
 ## Resources
